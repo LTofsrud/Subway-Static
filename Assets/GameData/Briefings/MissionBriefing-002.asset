@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bcc3f43d9913cbc42bb5c0689bfdef73, type: 3}
+  m_Name: MissionBriefing-002
+  m_EditorClassIdentifier: 
+  introText: "Agents of the DUA, listen up. We\u2019ve detected anomalous interference
+    coming from the lower tunnels of the Metro-12 district. Something\u2019s pinging
+    off the charts \u2014 and no, Jenkins, it\u2019s not your lunch again."
+  missionGoal: Unknown resonance object. Emits sustained low-frequency hum. Glows
+    when emotionally agitated.
+  knownThreat: "Presence of Entity-16 (\u201CThe Whistler\u201D) confirmed. Avoid
+    excessive noise and direct confrontation."
+  flavorText: Gear up. Transport departs in 5. Glory or giblets, people. Your call.
+  speakerName: Director Voight

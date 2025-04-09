@@ -2328,6 +2328,12 @@ MonoBehaviour:
   m_Stock:
     m_Stock:
     - rid: 4463295030842098031
+    - rid: 4463295030842098082
+    - rid: 4463295030842098083
+    - rid: 4463295030842098084
+    - rid: 4463295030842098085
+    - rid: 4463295030842098086
+    - rid: 4463295030842098087
     m_Wealth: []
   m_SkinUI: {fileID: 0}
   m_Wearer:
@@ -2380,8 +2386,50 @@ MonoBehaviour:
       data:
         m_Breakpoint: 0
         m_IsEnabled: 1
-        m_Item: {fileID: 0}
-        m_Amount: 1
+        m_Item: {fileID: 11400000, guid: bdd14e7f56d218b45acba5c22dbea658, type: 2}
+        m_Amount: 4
+    - rid: 4463295030842098082
+      type: {class: StockData, ns: GameCreator.Runtime.Inventory, asm: GameCreator.Runtime.Inventory}
+      data:
+        m_Breakpoint: 0
+        m_IsEnabled: 1
+        m_Item: {fileID: 11400000, guid: 70aba0f65d3442c4daee3089035ebd1e, type: 2}
+        m_Amount: 4
+    - rid: 4463295030842098083
+      type: {class: StockData, ns: GameCreator.Runtime.Inventory, asm: GameCreator.Runtime.Inventory}
+      data:
+        m_Breakpoint: 0
+        m_IsEnabled: 1
+        m_Item: {fileID: 11400000, guid: 2ab2c855207f2144a811e4a750d509e6, type: 2}
+        m_Amount: 10
+    - rid: 4463295030842098084
+      type: {class: StockData, ns: GameCreator.Runtime.Inventory, asm: GameCreator.Runtime.Inventory}
+      data:
+        m_Breakpoint: 0
+        m_IsEnabled: 1
+        m_Item: {fileID: 11400000, guid: 7fe4596411a4e874e8f628da024e7da4, type: 2}
+        m_Amount: 4
+    - rid: 4463295030842098085
+      type: {class: StockData, ns: GameCreator.Runtime.Inventory, asm: GameCreator.Runtime.Inventory}
+      data:
+        m_Breakpoint: 0
+        m_IsEnabled: 1
+        m_Item: {fileID: 11400000, guid: 83cc91fb506235e49ba54a0589a20104, type: 2}
+        m_Amount: 5
+    - rid: 4463295030842098086
+      type: {class: StockData, ns: GameCreator.Runtime.Inventory, asm: GameCreator.Runtime.Inventory}
+      data:
+        m_Breakpoint: 0
+        m_IsEnabled: 1
+        m_Item: {fileID: 11400000, guid: 53ea15d9e738e374d8b6836625696838, type: 2}
+        m_Amount: 50
+    - rid: 4463295030842098087
+      type: {class: StockData, ns: GameCreator.Runtime.Inventory, asm: GameCreator.Runtime.Inventory}
+      data:
+        m_Breakpoint: 0
+        m_IsEnabled: 1
+        m_Item: {fileID: 11400000, guid: 396c7c22b9662094986f0cdd467e8cc4, type: 2}
+        m_Amount: 50
 --- !u!1 &1129183138
 GameObject:
   m_ObjectHideFlags: 0
